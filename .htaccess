@@ -1,8 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine On
-RewriteBase /
-
-# Use this rules with top directoty domain
-RewriteRule ^$ /public/index.php [L]
-RewriteCond %{REQUEST_URI} !^/public/
-RewriteRule ^(.*) /public/$1 [L]
