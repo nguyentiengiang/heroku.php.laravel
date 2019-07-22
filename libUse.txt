@@ -1,0 +1,11 @@
+CSS:
+https://daneden.github.io/animate.css/
+bootstrap 4
+yarn add --dev @fortawesome/fontawesome-free
+https://ionicons.com/usage
+
+
+JS
+http://gsgd.co.uk/sandbox/jquery/easing/
+https://mattboldt.com/demos/typed-js/
+https://popper.js.org/
